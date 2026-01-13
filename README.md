@@ -2,7 +2,7 @@ LINKLET
 --
 # A minimalist, high-performance landing page for your digital identity.
 
-Linklet is a streamlined, single-page bio application built for professionals in DevOps, Automation, and Cloud Engineering. It serves as a fast, elegant hub for your professional and social links—without the overhead, bloat, or maintenance burden of traditional site builders.
+Linklet is a streamlined, single-page bio application built for marketing or branding social media, etc. It serves as a fast, elegant hub for your professional and social links—without the overhead, bloat, or maintenance burden of traditional site builders.
 
 Designed with modern aesthetics and performance as first-class requirements, Linklet loads instantly, looks sharp on every device, and stays out of your way.
 
