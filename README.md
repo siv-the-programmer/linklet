@@ -6,6 +6,11 @@ Linklet is a streamlined, single-page bio application built for marketing, socia
 
 Designed with modern aesthetics and performance as first-class requirements, Linklet loads instantly, looks sharp on every device, and stays out of your way.
 
+## Preview
+
+![Linklet Preview](screenshots/preview.jpeg)
+
+
 Core Features
 --
 
