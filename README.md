@@ -8,7 +8,7 @@ Designed with modern aesthetics and performance as first-class requirements, Lin
 
 ## Preview
 
-<img src="preview.png" width="400" alt="Linklet preview">
+<img src="preview.jpeg" width="400" alt="Linklet preview">
 
 
 
