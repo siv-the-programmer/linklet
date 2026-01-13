@@ -8,7 +8,7 @@ Designed with modern aesthetics and performance as first-class requirements, Lin
 
 ## Preview
 
-![Linklet Preview](screenshots/preview.jpeg)
+![Linklet Preview](preview.jpeg)
 
 
 Core Features
