@@ -45,7 +45,7 @@ Quick Start
 ```
 Clone the repository
 
-git clone https://github.com/yourusername/linklet.git
+git clone https://github.com/siv-the-programmer/linklet.git
 
 Configure
 Open index.html, locate the links section, and replace ENTER_LINK_HERE with your actual profile URLs.
