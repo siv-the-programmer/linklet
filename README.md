@@ -3,6 +3,8 @@ LINKLET
 
 ![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS-S3-orange?logo=amazons3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+
 
 # A minimalist, high-performance landing page for your digital identity.
 
