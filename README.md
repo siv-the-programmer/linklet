@@ -1,5 +1,9 @@
 LINKLET
 --
+
+![HTML](https://img.shields.io/badge/HTML-5-E34F26?logo=html5&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-S3-orange?logo=amazons3&logoColor=white)
+
 # A minimalist, high-performance landing page for your digital identity.
 
 Linklet is a streamlined, single-page bio application built for marketing, social media, etc. It serves as a fast, elegant hub for your professional and social links—without the overhead, bloat, or maintenance burden of traditional site builders.
